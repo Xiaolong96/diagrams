@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T02:26:29.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="b-ZKVkbfSHxakUuhL-qL" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-09T04:13:17.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="SrZBUZodkgGDperWIQpS" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2505" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3348" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,34 +8,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-12" value="webpack.config.js" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-230" y="100" width="130" height="30" as="geometry" />
+          <mxGeometry x="-912" y="160" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-26" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;sketch=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-20" target="P1UB7HSZ6pOWpeYqLjef-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-20" value="webpack(options)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-150" y="210" width="130" height="30" as="geometry" />
+          <mxGeometry x="-832" y="270" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;sketch=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-22" target="P1UB7HSZ6pOWpeYqLjef-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-22" value="shell options" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-60" y="100" width="100" height="30" as="geometry" />
+          <mxGeometry x="-742" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-28" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;sketch=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-25" target="P1UB7HSZ6pOWpeYqLjef-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-25" value="compiler.run()" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-150" y="320" width="130" height="30" as="geometry" />
+          <mxGeometry x="-832" y="380" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;sketch=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-27" target="P1UB7HSZ6pOWpeYqLjef-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-27" value="&lt;span&gt;compiler.compile()&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-150" y="430" width="130" height="30" as="geometry" />
+          <mxGeometry x="-832" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Comic Sans MS;direction=west;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="240" width="20" height="80" as="geometry" />
+          <mxGeometry x="-662" y="300" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.143;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-34" target="P1UB7HSZ6pOWpeYqLjef-104">
           <mxGeometry relative="1" as="geometry" />
@@ -43,62 +43,59 @@
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-34" target="P1UB7HSZ6pOWpeYqLjef-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-34" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;webpack 初始化，调用 createCompiler(options)&lt;/span&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;new Compiler(&lt;span&gt;options.context&lt;/span&gt;) 构建 compiler 对象&lt;br&gt;&lt;/li&gt;&lt;li&gt;调用外部自定义&amp;nbsp;plugin 的 apply 方法，注册安装插件&lt;/li&gt;&lt;li&gt;WebpackOptionsApply.process(&lt;span&gt;options, compiler&lt;/span&gt;)&amp;nbsp; 完成了用户配置的初始化，根据配置字段安装内部 plugin 和注册最基本的必备 plugin 【new XXXPlugin().apply(compiler)】；注册/调用 hook 事件&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="216.25" width="430" height="127.5" as="geometry" />
-        </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-35" target="P1UB7HSZ6pOWpeYqLjef-125">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-34" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;webpack 初始化，调用 createCompiler(options)&lt;/span&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;new Compiler(&lt;span&gt;options.context&lt;/span&gt;) 构建 compiler 对象&lt;br&gt;&lt;/li&gt;&lt;li&gt;调用外部自定义&amp;nbsp;plugin 的 apply 方法，注册安装插件&lt;/li&gt;&lt;li&gt;&lt;b&gt;WebpackOptionsApply&lt;/b&gt;.process(&lt;span&gt;options, compiler&lt;/span&gt;)&amp;nbsp; 完成了用户配置的初始化，根据配置字段安装内部 plugin 和注册最基本的必备 plugin 【new XXXPlugin().apply(compiler)】；注册/调用 hook 事件&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-632" y="276.25" width="430" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-35" value="&lt;span&gt;compilation.addEntry()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-160" y="540" width="150" height="30" as="geometry" />
+          <mxGeometry x="-842" y="600" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Comic Sans MS;direction=west;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="132.5" width="20" height="65" as="geometry" />
+          <mxGeometry x="-622" y="192.5" width="20" height="65" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-50" value="解析 shell 和 config 中的配置项，生成 options" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="142.5" width="240" height="45" as="geometry" />
+          <mxGeometry x="-592" y="202.5" width="240" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-52" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;direction=east;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-270" y="120" width="20" height="220" as="geometry" />
+          <mxGeometry x="-952" y="180" width="20" height="210" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-53" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-450" y="183.75" width="170" height="86.25" as="geometry" />
+          <mxGeometry x="-1132" y="243.75" width="170" height="86.25" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-520" y="266" width="20" height="636.25" as="geometry" />
+          <mxGeometry x="-1230" y="590" width="20" height="636.25" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-69" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-770" y="480" width="230" height="210" as="geometry" />
+          <mxGeometry x="-1480" y="804" width="230" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-74" value="&lt;h1&gt;Tapable&lt;/h1&gt;&lt;p&gt;webpack 初始化，开启编译一般是由 webpack-cli 处理的，或者如 cra 项目的&amp;nbsp;&lt;br&gt;scripts/build.js&amp;nbsp;自定义启动脚本&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-750" y="520" width="190" height="120" as="geometry" />
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-74" value="&lt;h1&gt;Tapable&lt;/h1&gt;&lt;p&gt;贯穿整个 webpack ，暴露了很多用来创建钩子给插件使用的 hook 类&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1460" y="844" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-77" value="&lt;span style=&quot;text-align: left&quot;&gt;webpack 初始化，开启编译一般是由 webpack-cli 处理的，或者如 cra 项目的&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;scripts/build.js&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;自定义启动脚本&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-443.25" y="186" width="156.5" height="80" as="geometry" />
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-77" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;webpack 初始化&lt;/font&gt;&lt;/b&gt;，开启编译一般是由 webpack-cli 处理的，或者如 cra 项目的&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;scripts/build.js&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;自定义启动脚本&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1125.25" y="246" width="156.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-80" value="&lt;font color=&quot;#2b3a42&quot; style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;compiler&lt;/b&gt; 对象代表了完整的 webpack 环境配置，用于控制总流程，比如何时触发钩子&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="221" y="370.01" width="259" height="46.25" as="geometry" />
+          <mxGeometry x="-461" y="430.01" width="259" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-94" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Comic Sans MS;direction=east;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-200" y="350" width="20" height="80" as="geometry" />
+          <mxGeometry x="-882" y="410" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-95" value="启动 webpack 编译&lt;br&gt;beforeRun -&amp;gt; run -&amp;gt; this.compile(onCompiled); -&amp;gt; done -&amp;gt; afterDone，主要控制编译的前后期流程，真正的编译交给 compilation" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-470" y="353.13" width="260" height="80" as="geometry" />
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-95" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;启动 webpack 编译&lt;/font&gt;&lt;/b&gt;&lt;br&gt;beforeRun -&amp;gt; run -&amp;gt; this.compile(onCompiled); -&amp;gt; done -&amp;gt; afterDone，主要控制编译的前后期流程&lt;span&gt;（beforeRun中绑定读取文件的对象，run中处理缓存的模块，减少编译的模块，加速编译速度），&lt;/span&gt;真正的编译交给 compilation" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1152" y="396.57" width="260" height="106.87" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-96" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Comic Sans MS;direction=east;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-200" y="460" width="20" height="80" as="geometry" />
+          <mxGeometry x="-882" y="520" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-100" value="" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-97" target="P1UB7HSZ6pOWpeYqLjef-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-97" value="&lt;span&gt;触发 hook 流程：beforeCompile -&amp;gt; compile -&amp;gt; make -&amp;gt; afterCompile，在触发 make 钩子之前实例化了一个 compilation 对象，&lt;/span&gt;真正的编译构建过程注册在 &lt;b&gt;make&lt;/b&gt; 这个钩子的回调上" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-470" y="463.13" width="260" height="80" as="geometry" />
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-97" value="&lt;span&gt;触发 hook 流程：beforeCompile -&amp;gt; compile -&amp;gt; make -&amp;gt; afterCompile，在触发 make 钩子之前实例化了一个 compilation 对象，&lt;/span&gt;真正的编译构建过程注册在 &lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;make&lt;/font&gt;&lt;/b&gt; 这个钩子的回调上" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1152" y="523.13" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-99" value="&lt;b&gt;compilation&lt;/b&gt; 对象代表了一次资源版本构建。当运行 webpack 开发环境中间件时，每当检测到一个文件变化，就会创建一个新的 compilation，从而生成一组新的编译资源。" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-470" y="570" width="260" height="70" as="geometry" />
+          <mxGeometry x="-1152" y="630" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-104" value="make 注册" style="swimlane;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="440" width="350" height="260" as="geometry" />
+          <mxGeometry x="-602" y="500" width="350" height="260" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-117" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.403;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="P1UB7HSZ6pOWpeYqLjef-104" source="P1UB7HSZ6pOWpeYqLjef-105" target="P1UB7HSZ6pOWpeYqLjef-110">
           <mxGeometry relative="1" as="geometry" />
@@ -128,50 +125,178 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-122" value="订阅 make" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-10" y="420" width="60" height="20" as="geometry" />
+          <mxGeometry x="-692" y="480" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-112" target="P1UB7HSZ6pOWpeYqLjef-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="50" y="656" />
-              <mxPoint x="50" y="555" />
+              <mxPoint x="-632" y="716" />
+              <mxPoint x="-632" y="615" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-124" value="回调触发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-10" y="530" width="60" height="20" as="geometry" />
+          <mxGeometry x="-692" y="590" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-125" target="P1UB7HSZ6pOWpeYqLjef-129">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-35" target="P1UB7HSZ6pOWpeYqLjef-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-767" y="740" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-125" value="&lt;span&gt;compilation.addModuleTree()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-175" y="650" width="180" height="30" as="geometry" />
-        </mxCell>
-        <object label="" id="P1UB7HSZ6pOWpeYqLjef-135">
+        <object label="得到第一个 module 实例，&lt;br&gt;并触发 factorizeModule 的回调" id="P1UB7HSZ6pOWpeYqLjef-135">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-129" target="P1UB7HSZ6pOWpeYqLjef-134">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-129" value="NormalModuleFactory.create()" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-181.25" y="760" width="192.5" height="30" as="geometry" />
+          <mxGeometry x="-864" y="750" width="192.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-133" value="&lt;font color=&quot;#2b3a42&quot;&gt;create 触发 hook 流程：&lt;/font&gt;&lt;span&gt;beforeResolve -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;factorize；&lt;br&gt;&lt;/span&gt;factorize hook 在&amp;nbsp;&lt;span&gt;NormalModuleFactory 的构造函数中注册；&lt;/span&gt;&lt;br&gt;factorize 回调触发：&lt;span&gt;resolve -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;afterResolve -&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;createModule&lt;br&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="64" y="800" width="350" height="59" as="geometry" />
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-133" value="&lt;font color=&quot;#2b3a42&quot;&gt;create 触发 hook 流程：&lt;/font&gt;beforeResolve -&amp;gt;&amp;nbsp;factorize；&lt;br&gt;factorize hook 在&amp;nbsp;NormalModuleFactory 的构造函数中注册；&lt;br&gt;factorize 回调触发：&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;resolve&lt;/font&gt;&lt;/b&gt; -&amp;gt;&amp;nbsp;afterResolve -&amp;gt;&amp;nbsp;createModule&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;b&gt;hooks.resolve.callAsync&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;用解析器 enhanced-resolve 解析出模块的绝对路径；同时解析出 inline loader 和配置文件中的 loader 以及 loader 执行文件的路径" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-618.5" y="774.5" width="356.5" height="105.5" as="geometry" />
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-134" target="P1UB7HSZ6pOWpeYqLjef-137">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-134" target="P1UB7HSZ6pOWpeYqLjef-147">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-767.75" y="970" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-134" value="&lt;span&gt;hooks.resolve.callAsync&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-181.25" y="870" width="192.5" height="30" as="geometry" />
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-146" value="添加 module 到 compilation.modules 中" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="P1UB7HSZ6pOWpeYqLjef-138">
+          <mxGeometry x="-0.0853" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-136" value="&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="64" y="921" width="350" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="P1UB7HSZ6pOWpeYqLjef-137" value="&lt;span&gt;hooks.resolve.callAsync&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-181.25" y="980" width="192.5" height="30" as="geometry" />
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-134" value="compilation.addModule()" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-864" y="860" width="192.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P1UB7HSZ6pOWpeYqLjef-141" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Comic Sans MS;direction=west;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="789.5" width="20" height="80" as="geometry" />
+          <mxGeometry x="-652.75" y="779.5" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-142" value="&lt;span&gt;&lt;b&gt;Compilation.js&lt;/b&gt;&lt;br&gt;addEntry -&amp;gt; addModuleTree -&amp;gt; handleModuleCreation -&amp;gt; factorizeModule -&amp;gt; factory.create -&amp;gt; addModule -&amp;gt; buildModule&amp;nbsp;&lt;br&gt;过程中会调用两个重要的原型方法&lt;br&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1167" y="821.25" width="240" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-144" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-912" y="760" width="20" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-192" value="触发 make 钩子的异步调用回调" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-147" target="P1UB7HSZ6pOWpeYqLjef-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-147" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1057.12" y="1060" width="580.25" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-156" value="&lt;b&gt;Compilation.js&amp;nbsp;-&amp;gt; NormalModule.js&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-916.99" y="1070" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-157" target="P1UB7HSZ6pOWpeYqLjef-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-157" value="doBuild()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-711.12" y="1105" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-158" target="P1UB7HSZ6pOWpeYqLjef-167">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-554.62" y="1185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-555.12" y="1170" />
+              <mxPoint x="-754.12" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-170" value="处理好源码，触发 build 的回调" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="P1UB7HSZ6pOWpeYqLjef-161">
+          <mxGeometry x="-0.1164" y="2" relative="1" as="geometry">
+            <mxPoint x="-8.94" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-158" value="runLoaders()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-602.12" y="1105" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-164" target="P1UB7HSZ6pOWpeYqLjef-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-164" target="P1UB7HSZ6pOWpeYqLjef-167">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-805.12" y="1172" />
+              <mxPoint x="-755.12" y="1172" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-164" value="build()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-842.12" y="1105" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-167" target="P1UB7HSZ6pOWpeYqLjef-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-167" value="NormalModule.parser.parse()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-842.12" y="1210" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-172" value="&lt;span&gt;&lt;font color=&quot;#ff0000&quot;&gt;使用 Acorn.js 生成 AST，并分析依赖&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-652.75" y="1200" width="146.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-173" target="P1UB7HSZ6pOWpeYqLjef-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-179" value="callback 参数被调用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-173" target="P1UB7HSZ6pOWpeYqLjef-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-173" value="compilation.&lt;span style=&quot;text-align: left&quot;&gt;buildModule&lt;/span&gt;()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1031.99" y="1105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-174" target="P1UB7HSZ6pOWpeYqLjef-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-174" value="handleParseResult()" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-842" y="1290" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-178" target="P1UB7HSZ6pOWpeYqLjef-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-178" value="processModuleDependencies" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1036.99" y="1340" width="169.99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-180" target="P1UB7HSZ6pOWpeYqLjef-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1102" y="1435" />
+              <mxPoint x="-1102" y="1030" />
+              <mxPoint x="-882" y="1030" />
+              <mxPoint x="-882" y="765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-180" value="handleModuleCreation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;opacity=60;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1036.99" y="1420" width="169.99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-183" value="&lt;span&gt;&lt;font color=&quot;#330000&quot;&gt;添加依赖数组，&lt;br&gt;触发 buildModule 的回调&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-653.62" y="1270" width="146.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-187" value="&lt;span&gt;&lt;font color=&quot;#ff0000&quot;&gt;递归处理依赖性&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-842.12" y="1420" width="120.12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-191" target="P1UB7HSZ6pOWpeYqLjef-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-191" value="compilation.seal()" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-827.76" y="1580" width="125.76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-193" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;sketchStyle=rough;fontFamily=Comic Sans MS;align=center;opacity=60;dashed=1;perimeterSpacing=0;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1046.99" y="1090" width="190" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P1UB7HSZ6pOWpeYqLjef-195" target="P1UB7HSZ6pOWpeYqLjef-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-195" value="buildChunkGraph" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-827.76" y="1690" width="125.76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-197" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;creates the Chunk graph from the Module graph&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-669" y="1685.5" width="290" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-198" value="hooks.emit.callAsync(compilation, ...)" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-889.01" y="1790" width="248.26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-200" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;封装生成打包后的 JS&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-669" y="1577.75" width="197" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P1UB7HSZ6pOWpeYqLjef-201" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;出发 emit 钩子，将最后的打包产物输出到指定目录&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;rounded=1;fontFamily=Comic Sans MS;shadow=0;glass=0;sketch=1;imageAspect=1;sketchStyle=rough;strokeColor=#d79b00;fillColor=#ffe6cc;fillStyle=auto;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-612" y="1785.5" width="290" height="34.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
