@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T07:39:56.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="14.9.8" etag="edbekD2imFe0BgaT7wAX" type="github"><diagram id="GUYepA4XDTjhrn3bUQPw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-14T08:11:15.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="5xsZduHfk_F6O4MZvsLh" version="14.9.8" type="github">
+  <diagram id="GUYepA4XDTjhrn3bUQPw" name="Page-1">
+    <mxGraphModel dx="1298" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iTOVcwxeutdxXko1fwy_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iTOVcwxeutdxXko1fwy_-1" target="iTOVcwxeutdxXko1fwy_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-1" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;setHookCallback(createLocal)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-2" value="注册 moment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iTOVcwxeutdxXko1fwy_-3" target="iTOVcwxeutdxXko1fwy_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-3" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;createLocal(input, format, locale, strict)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iTOVcwxeutdxXko1fwy_-4" target="iTOVcwxeutdxXko1fwy_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-4" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;createLocalOrUTC(input, format, locale, strict, false)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="iTOVcwxeutdxXko1fwy_-18" target="iTOVcwxeutdxXko1fwy_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iTOVcwxeutdxXko1fwy_-5" target="iTOVcwxeutdxXko1fwy_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-5" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;createFromConfig(config)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-6" value="创建本地时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-7" value="非 utc 时间，根据入参构造 config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-8" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;new Moment(checkOverflow(prepareConfig(config)))&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="175" y="380" width="500" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iTOVcwxeutdxXko1fwy_-9" target="iTOVcwxeutdxXko1fwy_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-9" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;prepareConfig(config)&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="210" y="445" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iTOVcwxeutdxXko1fwy_-10" target="iTOVcwxeutdxXko1fwy_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-10" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;configFromInput(config)&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="205" y="520" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iTOVcwxeutdxXko1fwy_-11" target="iTOVcwxeutdxXko1fwy_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-11" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;configFromString(config)&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="600" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iTOVcwxeutdxXko1fwy_-12" target="iTOVcwxeutdxXko1fwy_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-12" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;hooks.createFromInputFallback(config)&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="475" width="240" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-13" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;new Date()&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="iTOVcwxeutdxXko1fwy_-18" value="处理入参配置，构造 moment 实例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314" y="390" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
